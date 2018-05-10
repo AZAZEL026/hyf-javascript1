@@ -10,7 +10,7 @@ console.log(x);
 let y="Ali";
 console.log(y);
 y="Farmani";
- console.log("value of my string will be: name);
+ console.log("value of my string will be: name");
 console.log(y);
 let z = 7.25;
 console.log(z);
